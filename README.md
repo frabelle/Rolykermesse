@@ -7,6 +7,9 @@ Esta es una parte de un proyecto elaborado para una asignatura en donde se facil
 * Bootstrap 4
 * PHP nativo
 * MVC (Modelo Vista Controlador)
+* JAlert
+* Select2
+* Fontawesome
 * AJAX
 
 ## Gestor de Bases de datos
